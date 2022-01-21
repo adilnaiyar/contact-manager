@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "d9b078b0-5f96-40be-8343-7e2a1277c32f",
+      "name": "Adil Naiyar",
+      "email": "adil.naiyar@gmail.com"
+    },
+    {
+      "id": "fa41fc23-9964-4b5a-bf30-f31755e3d7ef",
+      "name": "Salman Khan",
+      "email": "Salman@gmail.com"
+    },
+    {
+      "id": "aba14cee-4adf-4817-8a8b-8beecac7e5a5",
+      "name": "Rashid",
+      "email": "rashid@gmail.com"
+    },
+    {
+      "id": "6a4f0ec4-ca39-42fa-8cf1-5f1a59aaefae",
+      "name": "Riya",
+      "email": "riya@gmail.com"
+    },
+    {
+      "id": "85718b97-dd08-425f-ab83-69974fb874bb",
+      "name": "Vijay Singh",
+      "email": "Vijay@yahoo.com"
+    }
+  ]
+}
